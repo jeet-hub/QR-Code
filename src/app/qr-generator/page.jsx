@@ -1,4 +1,4 @@
-﻿import DynamicQR from "../components/DynamicQR/DynamicQR";
+﻿import DynamicQR from "../Components/DynamicQR/DynamicQR";
 
 export default function QRGeneratorPage() {
   return (
